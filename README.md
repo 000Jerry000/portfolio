@@ -22,5 +22,6 @@ Particle.js, Typed.js, Tilt.js, Scroll Reveal, Tawk.to, Font Awesome and JSON
 
 Feel free to reach me through the below handles if you'd like to contact me.
 
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jerrytom/e)
-[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/K.masao.dev)
+[![discord](https://img.shields.io/badge/discord-6854eb?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/SpCY5Tvy)
+[![slack](https://img.shields.io/badge/slack-521e4e?style=for-the-badge&logo=slack&logoColor=white)](https://jerry-2qp9506.slack.com/archives/C08QNMUKU6S)
+[![chatwork](https://img.shields.io/badge/chatwork-131f2e?style=for-the-badge&logo=chatwork&logoColor=white)](https://www.chatwork.com/Web_coding)
