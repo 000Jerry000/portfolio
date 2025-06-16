@@ -14,7 +14,7 @@ Portfolio website built using HTML5, CSS3, JavaScript, and jQuery.
 Particle.js, Typed.js, Tilt.js, Scroll Reveal, Tawk.to, Font Awesome and JSON
 
 ## 📌 Sneak Peek of Main Page 🙈 :
-![mockup720](https://private-user-images.githubusercontent.com/212239080/455139019-87436321-e2ae-47b2-b6ab-8f479761c848.PNG?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDk4OTI3OTUsIm5iZiI6MTc0OTg5MjQ5NSwicGF0aCI6Ii8yMTIyMzkwODAvNDU1MTM5MDE5LTg3NDM2MzIxLWUyYWUtNDdiMi1iNmFiLThmNDc5NzYxYzg0OC5QTkc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNjE0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDYxNFQwOTE0NTVaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1mODEwNzMxYTdlNmU1MWNjYmVmNzE5MGUyMzQ2MWI3MDJiYWQ1MGE2NTUyOTJiYTJkMjlhY2QzZDBjMmQ3YmJjJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.soB3MvrMPKf0XaThVjBqNs1IgxW0JymTDgWU6WI3fVU)
+![mockup720](https://github.com/000Jerry000/portfolio/blob/main/assets/images/projects/portfolio1.PNG)
 ![ss](https://user-images.githubusercontent.com/64949957/159113640-d92665a8-f614-42b3-8456-66b97fc2e651.png)
 
 
