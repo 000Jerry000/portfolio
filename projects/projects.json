@@ -1,5 +1,25 @@
 [
   {
+    "name": "Design & Coding",
+    "desc": "From design creation to pixel perfect coding and WordPress conversion, to server upload. Built using php, html, css, js.",
+    "image": "en-Taku.png",
+    "category": "wordpress",
+    "links": {
+      "view": "https://008.fu-dev.com/",
+      "code": "https://github.com/000Jerry000/en_Taku"
+    }
+  },
+  {
+    "name": "Animation project",
+    "desc": "Coding and animation implementation, converted to WordPress. Built using php, html, css, js.",
+    "image": "Aster-house.png",
+    "category": "wordpress",
+    "links": {
+      "view": "https://house.aster-estate.com/",
+      "code": "https://github.com/000Jerry000/ASTER-HOUSE2025"
+    }
+  },
+  {
     "name": "NotyStack Android",
     "desc": "Fully fledged android CRUD app based on different design patterns. Built using Java, XML, SQLite, Firebase, RoomDB, MVVM.",
     "image": "notystackandroid.png",
