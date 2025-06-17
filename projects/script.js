@@ -32,28 +32,12 @@ document.addEventListener('visibilitychange',
 
 // fetch projects start
 function getProjects() {
-    return fetch("projects/projects.json")
+    return fetch("projects/projects.json") // It's OK on vercel. But it's `return fetch("projects.json")` on local
         .then(response => response.json())
         .then(data => {
             return data
         });
 }
-// async function getProjects() {
-//     try {
-//       const response = await fetch("projects/projects.json");
-  
-//       if (!response.ok) {
-//         throw new Error(`HTTP error! Status: ${response.status}`);
-//       }
-  
-//       const data = await response.json();
-//       return data;
-  
-//     } catch (error) {
-//       console.error("Failed to load projects:", error);
-//       return []; // or throw error, depending on your use case
-//     }
-//   }
 
 function showProjects(projects) {
     let projectsContainer = document.querySelector(".work .box-container");
