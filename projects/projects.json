@@ -20,6 +20,16 @@
     }
   },
   {
+    "name": "Female sports",
+    "desc": "Coding and animation implementation, converted to WordPress. Built using php, html, css, js.",
+    "image": "Aster-house.png",
+    "category": "wordpress",
+    "links": {
+      "view": "https://unicobodymake.com/",
+      "code": "https://github.com/000Jerry000/unico.git"
+    }
+  },
+  {
     "name": "NotyStack Android",
     "desc": "Fully fledged android CRUD app based on different design patterns. Built using Java, XML, SQLite, Firebase, RoomDB, MVVM.",
     "image": "notystackandroid.png",
