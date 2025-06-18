@@ -30,6 +30,16 @@
     }
   },
   {
+    "name": "BBQ portal",
+    "desc": "Implemented a no-code implementation combined with a design that helps improve business. Built using squarespace.",
+    "image": "squarespace.png",
+    "category": "no-code",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
     "name": "NotyStack Android",
     "desc": "Fully fledged android CRUD app based on different design patterns. Built using Java, XML, SQLite, Firebase, RoomDB, MVVM.",
     "image": "notystackandroid.png",
