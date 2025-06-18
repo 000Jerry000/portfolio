@@ -14,7 +14,7 @@ Portfolio website built using HTML5, CSS3, JavaScript, and jQuery.
 Particle.js, Typed.js, Tilt.js, Scroll Reveal, Tawk.to, Font Awesome and JSON
 
 ## 📌 Sneak Peek of Main Page 🙈 :
-![mockup720](https://github.com/000Jerry000/portfolio/blob/main/assets/images/projects/portfolio1.PNG)
+![mockup720](https://github.com/000Jerry000/portfolio/blob/main/assets/images/projects/portfolio1.png)
 ![ss](https://user-images.githubusercontent.com/64949957/159113640-d92665a8-f614-42b3-8456-66b97fc2e651.png)
 
 
