@@ -30,6 +30,16 @@
     }
   },
   {
+    "name": "detal clinic project",
+    "desc": "Design and coding implementation, converted to WordPress. Built using php, html, css, js.",
+    "image": "shiwa_dental.png",
+    "category": "wordpress",
+    "links": {
+      "view": "https://f-dental.jp/",
+      "code": "https://github.com/000Jerry000/showa_dental.git"
+    }
+  },
+  {
     "name": "BBQ portal (squarespace)",
     "desc": "Implemented a no-code implementation combined with a design that helps improve business. Built using squarespace.",
     "image": "squarespace.png",
