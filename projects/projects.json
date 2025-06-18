@@ -40,6 +40,16 @@
     }
   },
   {
+    "name": "Power-saving and environmentally friendly products",
+    "desc": "Implemented a no-code & low-code implementation combined with a design that helps improve business. Built using shopify.",
+    "image": "shopify.png",
+    "category": "no-code",
+    "links": {
+      "view": "https://citaxford.jp/lacita/",
+      "code": "#"
+    }
+  },
+  {
     "name": "NotyStack Android",
     "desc": "Fully fledged android CRUD app based on different design patterns. Built using Java, XML, SQLite, Firebase, RoomDB, MVVM.",
     "image": "notystackandroid.png",
