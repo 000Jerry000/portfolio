@@ -35,7 +35,17 @@
     "image": "squarespace.png",
     "category": "no-code",
     "links": {
-      "view": "https://github.com/000Jerry000/portfolio/blob/main/assets/images/projects/squarespace.mp4",
+      "view": "#",
+      "code": "https://github.com/000Jerry000/portfolio/blob/main/assets/images/projects/squarespace.mp4"
+    }
+  },
+  {
+    "name": "Power-saving and environmentally friendly products",
+    "desc": "Implemented a no-code & low-code implementation combined with a design that helps improve business. Built using shopify.",
+    "image": "shopify.png",
+    "category": "no-code",
+    "links": {
+      "view": "https://citaxford.jp/lacita/",
       "code": "#"
     }
   },
