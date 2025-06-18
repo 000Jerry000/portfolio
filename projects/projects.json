@@ -35,8 +35,8 @@
     "image": "squarespace.png",
     "category": "no-code",
     "links": {
-      "view": "https://github.com/000Jerry000/portfolio/blob/main/assets/images/projects/squarespace.mp4",
-      "code": "#"
+      "view": "#",
+      "code": "https://github.com/000Jerry000/portfolio/blob/main/assets/images/projects/squarespace.mp4"
     }
   },
   {
