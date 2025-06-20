@@ -60,6 +60,16 @@
     }
   },
   {
+    "name": "Sass project",
+    "desc": "From design to site construction and animation implementation. Built using sass, js.",
+    "image": "nihonriko.png",
+    "category": "sass",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
     "name": "NotyStack Android",
     "desc": "Fully fledged android CRUD app based on different design patterns. Built using Java, XML, SQLite, Firebase, RoomDB, MVVM.",
     "image": "notystackandroid.png",
