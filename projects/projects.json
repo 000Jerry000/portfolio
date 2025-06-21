@@ -26,21 +26,21 @@
     "category": "wordpress",
     "links": {
       "view": "https://unicobodymake.com/",
-      "code": "https://github.com/000Jerry000/unico.git"
+      "code": "https://github.com/000Jerry000/unico"
     }
   },
   {
-    "name": "detal clinic project",
+    "name": "Dental clinic project",
     "desc": "Design and coding implementation, converted to WordPress. Built using php, html, css, js.",
     "image": "showa_dental.png",
     "category": "wordpress",
     "links": {
       "view": "https://f-dental.jp/",
-      "code": "https://github.com/000Jerry000/showa_dental.git"
+      "code": "https://github.com/000Jerry000/showa_dental"
     }
   },
   {
-    "name": "BBQ portal (squarespace)",
+    "name": "Digital portal (squarespace)",
     "desc": "Implemented a no-code implementation combined with a design that helps improve business. Built using squarespace.",
     "image": "squarespace.png",
     "category": "no-code",
@@ -66,7 +66,7 @@
     "category": "sass",
     "links": {
       "view": "#",
-      "code": "https://github.com/000Jerry000/nihonriko.git"
+      "code": "https://github.com/000Jerry000/nihonriko"
     }
   },
   {
