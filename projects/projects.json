@@ -70,6 +70,16 @@
     }
   },
   {
+    "name": "ChatGPT & python scraping project",
+    "desc": "I scraped a large amount of sites using Python Selenium and ChatGP. Built using python, chatGPT API.",
+    "image": "scraping.png",
+    "category": "python chatgpt",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/000Jerry000/nihonriko.git"
+    }
+  },
+  {
     "name": "NotyStack Android",
     "desc": "Fully fledged android CRUD app based on different design patterns. Built using Java, XML, SQLite, Firebase, RoomDB, MVVM.",
     "image": "notystackandroid.png",
