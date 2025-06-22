@@ -1,9 +1,9 @@
 [
   {
     "name": "Design & Coding",
-    "desc": "From design creation to pixel perfect coding and WordPress conversion, to server upload. Built using php, html, css, js.",
+    "desc": "デザインの作成から、ピクセルパーフェクトなコーディング、WordPressへの変換、さらにはサーバーへのアップロードまで一貫して対応いたしました。PHP、HTML、CSS、JavaScriptを用いて構築しておりました。",
     "image": "en-Taku.png",
-    "category": "wordpress",
+    "category": "design wordpress",
     "links": {
       "view": "https://008.fu-dev.com/",
       "code": "https://github.com/000Jerry000/en_Taku"
@@ -11,7 +11,7 @@
   },
   {
     "name": "Animation project",
-    "desc": "Coding and animation implementation, converted to WordPress. Built using php, html, css, js.",
+    "desc": "コーディングおよびアニメーションの実装を、WordPress用に変換いたしました。PHP、HTML、CSS、JavaScriptを用いて構築しております。",
     "image": "Aster-house.png",
     "category": "wordpress",
     "links": {
@@ -21,7 +21,7 @@
   },
   {
     "name": "Female sports",
-    "desc": "Coding and animation implementation, converted to WordPress. Built using php, html, css, js.",
+    "desc": "コーディングおよびアニメーションの実装を、WordPress用に変換いたしました。PHP、HTML、CSS、JavaScriptを用いて構築しております。",
     "image": "unico.jpg",
     "category": "wordpress",
     "links": {
@@ -31,9 +31,9 @@
   },
   {
     "name": "Dental clinic project",
-    "desc": "Design and coding implementation, converted to WordPress. Built using php, html, css, js.",
+    "desc": "デザインとコーディング実装、WordPress への移行。PHP、HTML、CSS、JS を使用して構築。",
     "image": "showa_dental.png",
-    "category": "wordpress",
+    "category": "design wordpress",
     "links": {
       "view": "https://f-dental.jp/",
       "code": "https://github.com/000Jerry000/showa_dental"
@@ -41,9 +41,9 @@
   },
   {
     "name": "Digital portal (squarespace)",
-    "desc": "Implemented a no-code implementation combined with a design that helps improve business. Built using squarespace.",
+    "desc": "ビジネスの改善に役立つデザインとノーコードでの実装を組み合わせて制作しました。構築にはSquarespaceを使用しています。",
     "image": "squarespace.png",
-    "category": "no-code",
+    "category": "design no-code",
     "links": {
       "view": "https://www.organizer.digiq.jp/",
       "code": "https://github.com/000Jerry000/portfolio/blob/main/assets/images/projects/squarespace.mp4"
@@ -51,9 +51,9 @@
   },
   {
     "name": "Power-saving products (shopify)",
-    "desc": "Implemented a no-code & low-code implementation combined with a design that helps improve business. Built using shopify.",
+    "desc": "ノーコードおよびローコードの実装を取り入れ、ビジネスの改善に寄与するデザインを構築しました。Shopifyを用いて開発しました。",
     "image": "shopify.png",
-    "category": "no-code",
+    "category": "design no-code",
     "links": {
       "view": "https://citaxford.jp/lacita/",
       "code": "#"
@@ -61,9 +61,9 @@
   },
   {
     "name": "Sass project",
-    "desc": "From design to site construction and animation implementation. Built using sass, js.",
+    "desc": "デザインからサイト構築、アニメーションの実装まで対応いたします。SassとJavaScriptを用いて制作いたします。",
     "image": "nihonriko.png",
-    "category": "sass",
+    "category": "design sass",
     "links": {
       "view": "#",
       "code": "https://github.com/000Jerry000/nihonriko"
@@ -71,7 +71,7 @@
   },
   {
     "name": "ChatGPT & python scraping project",
-    "desc": "I scraped a large amount of sites using Python Selenium and ChatGP. Built using python, chatGPT API.",
+    "desc": "PythonのSeleniumとChatGPTを活用して、大量のサイトをスクレイピングしました。PythonとChatGPT APIを用いて構築しています。",
     "image": "scraping.png",
     "category": "python chatgpt",
     "links": {
