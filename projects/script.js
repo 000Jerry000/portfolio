@@ -32,8 +32,8 @@ document.addEventListener('visibilitychange',
 
 // fetch projects start
 function getProjects() {
-    return fetch("projects/projects.json") // It's OK on vercel. But it's `return fetch("projects.json")` on local
-    // return fetch("projects.json")
+    // return fetch("projects/projects.json") // It's OK on vercel. But it's `return fetch("projects.json")` on local
+    return fetch("projects.json")
         .then(response => response.json())
         .then(data => {
             return data
@@ -46,7 +46,7 @@ function showProjects(projects) {
     projects.forEach(project => {
         projectsHTML += `
         <div class="grid-item ${project.category}">
-        <div class="box tilt" style="width: 380px; margin: 1rem">
+        <div class="box tilt" style="width: 360px; margin: 1rem">
       <img draggable="false" src="/assets/images/projects/${project.image}" alt="project" />
       <div class="content">
         <div class="tag">
