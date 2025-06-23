@@ -32,8 +32,8 @@ document.addEventListener('visibilitychange',
 
 // fetch projects start
 function getProjects() {
-    // return fetch("projects/projects.json") // It's OK on vercel. But it's `return fetch("projects.json")` on local
-    return fetch("projects.json")
+    return fetch("projects/projects.json") // It's OK on vercel. But it's `return fetch("projects.json")` on local
+    // return fetch("projects.json")
         .then(response => response.json())
         .then(data => {
             return data
