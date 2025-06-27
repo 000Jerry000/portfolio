@@ -28,11 +28,6 @@ body {
   color: #fff;
 }
 
-html {
-  font-size: 62.5%;
-  overflow-x: hidden;
-}
-
 html::-webkit-scrollbar {
   width: 0.8rem;
 }
@@ -43,6 +38,14 @@ html::-webkit-scrollbar-track {
 
 html::-webkit-scrollbar-thumb {
   background: #420177;
+}
+
+body.en .jp, body.jp .en {
+  display: none;
+}
+
+body.jp .jp, body.en .en {
+  display: block;
 }
 
 /* pre loader start */
@@ -462,6 +465,7 @@ img.chatwork {
 
 .about .row .content p {
   font-size: 1.5rem;
+  line-height: 2;
   margin-top: 1.5rem;
   font-family: "Nunito";
   font-weight: 600;
