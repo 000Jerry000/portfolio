@@ -22,7 +22,7 @@
 </div> -->
 
 <!-- navbar starts -->
-<header>
+<header class="en">
         <a href="/" class="logo"><i class="fab fa-node-js"></i> Masao</a>
 
         <div id="menu" class="fas fa-bars"></div>
@@ -38,6 +38,22 @@
             </ul>
         </nav>
 </header>
+<header class="jp">
+        <a href="/" class="logo"><i class="fab fa-node-js"></i> 正男</a>
+
+        <div id="menu" class="fas fa-bars"></div>
+        <nav class="navbar">
+            <ul>
+            <li><a class="active" href="#home"> ホーム</a></li>
+            <li><a href="#about">自己紹介</a></li>
+            <li><a href="#skills">技術一覧</a></li>
+            <li><a href="#education">学歴</a></li>
+            <li><a href="#work">制作実績</a></li>
+            <li><a href="#experience">経歴</a></li>
+            <li><a href="#contact">お問い合わせ</a></li>
+            </ul>
+        </nav>
+</header>
 <!-- navbar ends -->
 
 
@@ -50,7 +66,8 @@
       <p class="en">i am into <span class="typing-texten"></span></p>
       <h2 class="jp">初めまして<br/> 正男 <span>金山</span>ともします</h2>
       <p class="jp">私は <span class="typing-textjp"></span></p>
-      <a href="#about" class="btn"><span>About Me</span>
+      <a href="#about" class="btn en"><span>About Me</span>
+      <a href="#about" class="btn jp"><span>自己紹介</span>
         <i class="fas fa-arrow-circle-down"></i>
       </a>
       <div class="socials">
@@ -76,7 +93,8 @@
 
 <!-- about section starts -->
 <section class="about" id="about">
-    <h2 class="heading"><i class="fas fa-user-alt"></i> About <span>Me</span></h2>
+    <h2 class="heading en"><i class="fas fa-user-alt"></i> About <span>Me</span></h2>
+    <h2 class="heading jp"><i class="fas fa-user-alt"></i> <span>自己紹介</span></h2>
     
     <div class="row">
 
@@ -130,7 +148,8 @@
 <!-- skills section starts -->
 <section class="skills" id="skills">
 
-    <h2 class="heading"><i class="fas fa-laptop-code"></i> Skills & <span>Abilities</span></h2>
+    <h2 class="heading en"><i class="fas fa-laptop-code"></i> Skills & <span>Abilities</span></h2>
+    <h2 class="heading jp"><i class="fas fa-laptop-code"></i> スキル & <span>能力</span></h2>
 
     <div class="container">
           <div class="row" id="skillsContainer">
@@ -149,7 +168,7 @@
 
 
 <!-- education section starts -->
-<section class="education" id="education">
+<!-- <section class="education" id="education">
 
   <h1 class="heading"><i class="fas fa-graduation-cap"></i> My <span>Education</span></h1>
 
@@ -180,14 +199,15 @@
     </div>
 
 </div>
-</section>
+</section> -->
 <!-- education section ends -->
 
 
 <!-- work project section starts -->
 <section class="work" id="work">
 
-  <h2 class="heading"><i class="fas fa-laptop-code"></i> Projects <span>Made</span></h2>
+  <h2 class="heading en"><i class="fas fa-laptop-code"></i> Projects <span>Made</span></h2>
+  <h2 class="heading jp"><i class="fas fa-laptop-code"></i> Projects <span>Made</span></h2>
 
   <div class="box-container">
 
@@ -221,9 +241,10 @@
 <!-- experience section starts -->
 <section class="experience" id="experience">
 
-  <h2 class="heading"><i class="fas fa-briefcase"></i> Experience </h2>
+  <h2 class="heading en"><i class="fas fa-briefcase"></i> Experience </h2>
+  <h2 class="heading jp"><i class="fas fa-briefcase"></i> キャリアタイムライン </h2>
 
-  <div class="timeline">
+  <div class="timeline en">
 
     <div class="container right">
       <div class="content">
@@ -297,6 +318,80 @@
       </div>
     </div>
   </div>
+  <div class="timeline jp">
+
+    <div class="container right">
+      <div class="content">
+        <div class="tag">
+          <h2>フリーランスエンジニアとして活動中</h2>
+        </div>
+        <div class="desc">
+            <h3>Next.js、TypeScript、Tailwind CSS、Laravel、Django などを用いて複数のWebアプリ開発プロジェクトに参画。デザインからフロント・バックエンド、さらには保守運用までワンストップで対応。</h3>
+            <p>2022年7月 〜 現在</p>
+        </div>
+      </div>
+    </div>
+
+    <div class="container left">
+      <div class="content">
+        <div class="tag">
+          <h2>Androidアプリの開発経験（副業）</h2>
+        </div>
+        <div class="desc">
+            <h3>KotlinとFirebaseを用いたライフログ系アプリを個人で開発・リリース。UI/UX設計から実装、Google Playでの公開・運用まで一人で対応。</h3>
+            <p>2021年1月 〜 2022年6月</p>
+        </div>
+      </div>
+    </div>
+
+    <div class="container right">
+      <div class="content">
+        <div class="tag">
+          <h2>スタートアップ企業でフルスタック開発</h2>
+        </div>
+        <div class="desc">
+            <h3>React / Node.js / Firebase によるWebアプリ開発に加え、社内向けの管理ツールやAPI連携も実装。要件定義〜リリースまで一貫して担当。</h3>
+            <p>2020年4月 〜 2022年6月</p>
+        </div>
+      </div>
+    </div>
+
+    <div class="container left">
+      <div class="content">
+        <div class="tag">
+          <h2>Web制作会社にてフロントエンドエンジニアとして勤務</h2>
+        </div>
+        <div class="desc">
+            <h3>コーポレートサイトやECサイトの制作に携わり、WordPress、jQuery、Sass、Vue.js などを使用した実務経験を積む。レスポンシブ対応やアクセシビリティも重視したUI開発を担当。</h3>
+            <p>2017年4月 〜 2020年3月</p>
+        </div>
+      </div>
+    </div>
+
+    <div class="container right">
+      <div class="content">
+        <div class="tag">
+          <h2>大学で情報技術を専攻</h2>
+        </div>
+        <div class="desc">
+            <h3>情報系学部にて、C言語、Java、アルゴリズム、ネットワーク、データベースなどを学びながら、複数の学内開発プロジェクトに参加。</h3>
+            <p>2014年4月 〜 2017年3月</p>
+        </div>
+      </div>
+    </div>
+
+    <div class="container left">
+      <div class="content">
+        <div class="tag">
+          <h2>プログラミング学習のスタート</h2>
+        </div>
+        <div class="desc">
+            <h3>高校時代より独学でHTML、CSS、JavaScriptなどの基礎を習得。簡単なWebサイトやツールを個人で制作。</h3>
+            <p>2012年4月 〜 2014年3月</p>
+        </div>
+      </div>
+    </div>
+  </div>
 
   <div class="morebtn">
     <a href="/experience" class="btn"><span>View All</span>
@@ -312,14 +407,15 @@
 <!-- contact section starts -->
 <section class="contact" id="contact">
   
-  <h2 class="heading"><i class="fas fa-headset"></i> Get in <span>Touch</span></h2>
+  <h2 class="heading en"><i class="fas fa-headset"></i> Get in <span>Touch</span></h2>
+  <h2 class="heading jp"><i class="fas fa-headset"></i>  <span>お問い合わせ</span></h2>
 
   <div class="container">
     <div class="content">
       <div class="image-box">
         <img draggable="false" src="./assets/images/contact1.png" alt="">
       </div>
-    <form id="contact-form">
+    <form id="contact-form" class="en">
       
       <div class="form-group">
         <div class="field">
@@ -344,6 +440,31 @@
           Submit <i class="fa fa-paper-plane"></i></button>
       </div>
     </form>
+    <form id="contact-form" class="jp">
+      
+      <div class="form-group">
+        <div class="field">
+          <input type="text" name="name" placeholder="お名前" required>
+          <i class='fas fa-user'></i>
+        </div>
+        <div class="field">
+          <input type="text" name="email" placeholder="メールアドレス" required>
+          <i class='fas fa-envelope'></i>
+        </div>
+        <div class="field">
+          <input type="text" name="phone" placeholder="電話番号">
+          <i class='fas fa-phone-alt'></i>
+        </div>
+        <div class="message">
+        <textarea placeholder="メッセージ" name="message" required></textarea>
+        <i class="fas fa-comment-dots"></i>
+        </div>
+        </div>
+      <div class="button-area">
+        <button type="submit">
+          提出する <i class="fa fa-paper-plane"></i></button>
+      </div>
+    </form>
   </div>
   </div>
 </section>
@@ -355,12 +476,18 @@
 
   <div class="box-container">
 
-      <div class="box">
+      <div class="box en">
           <h3>Masao's Portfolio</h3>
           <p>Thank you for visiting my personal portfolio website. Connect with me over socials. <br/> <br/> Keep Rising 🚀. Connect with me over live chat!</p>
       </div>
+      <div class="box jp">
+          <h3>正男のポートフォリオサイトへようこそ</h3>
+          <p>ご覧いただきありがとうございます。
+            SNSを通じてお気軽にご連絡ください。<br/> <br/> これからも成長を続けてまいります🚀
+            ライブチャットでもお気軽にご相談いただけます！</p>
+      </div>
 
-      <div class="box">
+      <div class="box en">
           <h3>quick links</h3>
           <a href="#home"><i class="fas fa-chevron-circle-right"></i> home</a>
           <a href="#about"><i class="fas fa-chevron-circle-right"></i> about</a>
@@ -368,6 +495,15 @@
           <a href="#education"><i class="fas fa-chevron-circle-right"></i> education</a>
           <a href="#work"><i class="fas fa-chevron-circle-right"></i> work</a>
           <a href="#experience"><i class="fas fa-chevron-circle-right"></i> experience</a>
+      </div>
+      <div class="box jp">
+          <h3>主要リンク一覧</h3>
+          <a href="#home"><i class="fas fa-chevron-circle-right"></i> ホーム</a>
+          <a href="#about"><i class="fas fa-chevron-circle-right"></i> 自己紹介</a>
+          <a href="#skills"><i class="fas fa-chevron-circle-right"></i> 技術一覧</a>
+          <a href="#education"><i class="fas fa-chevron-circle-right"></i> 制作実績</a>
+          <a href="#work"><i class="fas fa-chevron-circle-right"></i> 経歴</a>
+          <a href="#experience"><i class="fas fa-chevron-circle-right"></i> お問い合わせ</a>
       </div>
 
       <div class="box">
