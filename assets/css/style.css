@@ -75,7 +75,7 @@ header {
   left: 0;
   right: 0;
   z-index: 1000;
-  display: flex;
+  display: flex !important;
   align-items: center;
   justify-content: space-between;
   padding: 1.7rem 10%;
