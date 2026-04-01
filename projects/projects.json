@@ -142,7 +142,7 @@
   {
     "name": "えのすぱLOVERS公式サイトを制作しました",
     "desc": "えのすぱLOVERS -巡って、食べて、癒されて。私たちのスキを集めに行こう。",
-    "image": "LOVERS.png",
+    "image": "LOVERS.webp",
     "category": "wordpress",
     "links": {
       "view": "",
@@ -292,7 +292,7 @@
   {
     "name": "電子書籍 epub3 作成",
     "desc": "電子書籍 epub3 作成・発表プラットフォームです。",
-    "image": "cocuu.png",
+    "image": "cocuu.webp",
     "category": "security",
     "links": {
       "view": "http://cocuu.net/",
