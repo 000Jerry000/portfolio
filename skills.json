@@ -33,7 +33,7 @@
     },
     {
         "name": "TailwindCSS",
-        "icon": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg"
+        "icon": "./assets/images/skills/TailwindCSS.png"
     },
     {
         "name": "Bootstrap",
