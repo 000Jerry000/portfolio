@@ -182,7 +182,7 @@
   {
     "name": "GSCデータを自動でスプレッドシートに出力",
     "desc": "GASを使用してGoogle Search Console（GSC）から検索パフォーマンスデータを自動的に検索し、スプレッドシートに出力するGoogle Apps Script（GAS）を構築しました。",
-    "image": "GSCデータを自動.png",
+    "image": "GSCデータを自動.webp",
     "category": "gas",
     "links": {
       "view": "",
@@ -192,7 +192,7 @@
   {
     "name": "Flutterflowマッチングアプリ",
     "desc": "理想の異性と出会えるマッチングアプリを開発しました。",
-    "image": "Flutterflowマッチングアプリ.png",
+    "image": "Flutterflowマッチングアプリ.webp",
     "category": "android",
     "links": {
       "view": "",
@@ -212,7 +212,7 @@
   {
     "name": "外国人インフルエンサーマッチングサービス『UZU』",
     "desc": "外国人インフルエンサーと店舗のマッチングサービス「UZU」の開発を担当。",
-    "image": "uzu_.png",
+    "image": "uzu_.webp",
     "category": "android",
     "links": {
       "view": "https://apocc.co.jp/uzu_lp",
