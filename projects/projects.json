@@ -122,7 +122,7 @@
   {
     "name": "投げ銭サイト",
     "desc": "「TipTap」は、PythonとDjangoを用いて開発された投げ銭サイトになります。",
-    "image": "投げ銭サイト.png",
+    "image": "投げ銭サイト.webp",
     "category": "python",
     "links": {
       "view": "https://tiptap.tokyo/",
@@ -172,7 +172,7 @@
   {
     "name": "OTA・公式サイト対応 ホテル宿泊データ自動収集システム開発",
     "desc": "宿泊人数別料金・空室状況・公開月数を正確に取得する高精度スクレイピングプラットフォーム",
-    "image": "ホテル宿泊.png",
+    "image": "ホテル宿泊.webp",
     "category": "gas chatgpt",
     "links": {
       "view": "https://www.jalan.net/uw/uwp3200/uww3201init.do?callbackHistFlg=1&stayCount=1&roomCount=1&dateUndecided=1&adultNum=4&rootCd=7701&distCd=01&yadNo=384944&smlCd=010202&roomCrack=400000&stayYear=&stayMonth=&stayDay=&screenId=UWW3101&planCd=03618774&roomTypeCd=0517558&planListNumPlan=3_0_0&groupBookingFlg=&ccnt=planlist_cp_y_500_sale_n_0_pp_n_0",
@@ -202,7 +202,7 @@
   {
     "name": "まつりNOW",
     "desc": "お祭りで山車が今どこにいるかリアルタイムで分かるWebサービス！",
-    "image": "まつりNOW.png",
+    "image": "まつりNOW.webp",
     "category": "android",
     "links": {
       "view": "https://apocc.co.jp/matsurinow_lp",
@@ -232,7 +232,7 @@
   {
     "name": "ママスタ（ママ向け情報プラットフォーム）",
     "desc": "子育て・生活情報を発信する日本最大級ママ向けメディア。ニュース・コラム・コミュニティ・保活情報など、ママの日常を支援するコンテンツと交流基盤を提供します。([プレスリリース・ニュースリリース配信シェアNo.1｜PR TIMES][1])",
-    "image": "ママスタ.png",
+    "image": "ママスタ.webp",
     "category": "design wordpress",
     "links": {
       "view": "https://mamastar.jp/",
@@ -242,7 +242,7 @@
   {
     "name": "日経BP（ビジネス情報ポータル）",
     "desc": "日経BP公式サイト。ビジネス・テクノロジー・ライフスタイルなど幅広い分野の専門情報、ニュース、専門誌連動コンテンツを提供する総合情報ポータルです。",
-    "image": "日経BP.png",
+    "image": "日経BP.webp",
     "category": "design wordpress",
     "links": {
       "view": "https://www.nikkeibp.co.jp/",
