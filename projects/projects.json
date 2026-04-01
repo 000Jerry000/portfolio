@@ -132,7 +132,7 @@
   {
     "name": "AIの占い師アプリ",
     "desc": "アプリをダウンロードしてカメラロールにある写真を分析を行います。分析結果をchatgptへ投げてユーザーの性格、特徴、将来のことを占っています。",
-    "image": "AIの占い師アプリ.jpeg",
+    "image": "AIの占い師アプリ.webp",
     "category": "python chatgpt",
     "links": {
       "view": "",
@@ -152,7 +152,7 @@
   {
     "name": "シンデレラスリープ",
     "desc": "シンデレラスリープ | Contents",
-    "image": "シンデレラスリープ.jpg",
+    "image": "シンデレラスリープ.webp",
     "category": "wordpress",
     "links": {
       "view": "",
@@ -262,7 +262,7 @@
   {
     "name": "オリコン公式サイト（ニュース・ランキング）",
     "desc": "音楽・エンタメ情報・ランキングを提供する総合メディア。最新ニュースや音楽チャート、顧客満足度ランキングなどを発信し、トレンド情報のプラットフォームとして日本の大衆文化に貢献しています。",
-    "image": "オリコン公式サイト.png",
+    "image": "オリコン公式サイト.webp",
     "category": "design wordpress",
     "links": {
       "view": "https://www.oricon.co.jp/",
@@ -272,7 +272,7 @@
   {
     "name": "パスワード生成Webアプリ",
     "desc": "安全で複雑なパスワードを簡単に生成できるWebアプリです。本アプリは Peegee として公開しており、MCP（Model Context Protocol）サーバーにも対応。",
-    "image": "パスワード生成Webアプリ.jpeg",
+    "image": "パスワード生成Webアプリ.webp",
     "category": "system security",
     "links": {
       "view": "https://peegee.masoo.dev/",
