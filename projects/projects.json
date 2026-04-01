@@ -252,7 +252,7 @@
   {
     "name": "Uta-Net（歌詞検索サービス）",
     "desc": "国内最大級の歌詞検索サービス「Uta-Net」。曲名・アーティスト・歌詞の一部から無料で歌詞を検索・閲覧でき、音楽情報やランキング等のコンテンツも提供するサイトです。",
-    "image": "Uta-Net.png",
+    "image": "Uta-Net.webp",
     "category": "design wordpress",
     "links": {
       "view": "https://www.uta-net.com/",
@@ -282,7 +282,7 @@
   {
     "name": "パスワード受け取りシステム",
     "desc": "メールで添付ファイルを送付した後、２つ目のメールでパスワードを送信する事を防ぎたいために作成しました。",
-    "image": "passend.png",
+    "image": "passend.webp",
     "category": "security",
     "links": {
       "view": "",
