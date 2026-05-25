@@ -38,10 +38,10 @@ $(document).ready(function () {
     });
 
     // <!-- emailjs to mail contact form data -->
-    $("#contact-form").submit(function (event) {
-        // emailjs.init("IBw5D379skuhuwkym");
+    document.getElementById('form')
+     .addEventListener('submit', function(event) {
        event.preventDefault();
-
+    
        btn.value = 'Sending...';
     
        const serviceID = 'default_service';
