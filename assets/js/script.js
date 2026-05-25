@@ -39,18 +39,22 @@ $(document).ready(function () {
 
     // <!-- emailjs to mail contact form data -->
     $("#contact-form").submit(function (event) {
-        emailjs.init("IBw5D379skuhuwkym");
+        // emailjs.init("IBw5D379skuhuwkym");
+       event.preventDefault();
 
-        emailjs.sendForm('contact_service', 'template_contact', '#contact-form')
-            .then(function (response) {
-                console.log('SUCCESS!', response.status, response.text);
-                document.getElementById("contact-form").reset();
-                alert("Form Submitted Successfully");
-            }, function (error) {
-                console.log('FAILED...', error);
-                alert("Form Submission Failed! Try Again");
-            });
-        event.preventDefault();
+       btn.value = 'Sending...';
+    
+       const serviceID = 'default_service';
+       const templateID = 'template_tqr125r';
+    
+       emailjs.sendForm(serviceID, templateID, this)
+        .then(() => {
+          btn.value = 'Send Email';
+          alert('Sent!');
+        }, (err) => {
+          btn.value = 'Send Email';
+          alert(JSON.stringify(err));
+        });
     });
     // <!-- emailjs to mail contact form data -->
 
