@@ -1,7 +1,7 @@
 ## Portfolio-Website
 Portfolio website built using HTML5, CSS3, JavaScript, and jQuery.
 
-<a href="https://masao-portfolio.vercel.app/" target="_blank">**Visit Now** 🚀</a>
+<a href="https://Doi-portfolio.vercel.app/" target="_blank">**Visit Now** 🚀</a>
 
 
 ## 📌 Tech Stack
@@ -20,8 +20,8 @@ Particle.js, Typed.js, Tilt.js, Scroll Reveal, Tawk.to, Font Awesome and JSON
 
 Feel free to reach me through the below handles if you'd like to contact me.
 
-[![telegram](https://img.shields.io/badge/telegram-139bd5?style=for-the-badge&logo=telegram&logoColor=fff)](https://t.me/tomjerry1024)
+[![telegram](https://img.shields.io/badge/telegram-139bd5?style=for-the-badge&logo=telegram&logoColor=fff)](https://t.me/NicholasMitchell_HZ)
 [![discord](https://img.shields.io/badge/discord-6854eb?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/SpCY5Tvy)
 [![slack](https://img.shields.io/badge/slack-521e4e?style=for-the-badge&logo=slack&logoColor=white)](https://jerry-2qp9506.slack.com/archives/C08QNMUKU6S)
-[![chatwork](https://img.shields.io/badge/chatwork-131f2e?style=for-the-badge&logo=chatwork&logoColor=white)](https://www.chatwork.com/engineer-akira)
+[![chatwork](https://img.shields.io/badge/chatwork-131f2e?style=for-the-badge&logo=chatwork&logoColor=white)](https://www.chatwork.com/ichika01)
 [![gmail](https://img.shields.io/badge/gmail-bfe5fd?style=for-the-badge&logo=gmail&logoColor=f44a3c)](https://mail.google.com/mail/u/0/?ogbl#search/in%3Asent+whitewolf961024%40gmail.com)

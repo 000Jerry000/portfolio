@@ -42,7 +42,7 @@ var Tawk_API = Tawk_API || {},
 })();
 // End of Tawk.to Live Chat
 
-// diKanayama developer mode
+// diTakehiro developer mode
 document.onkeydown = function (e) {
   if (e.keyCode == 123) {
     return false;
@@ -63,7 +63,7 @@ document.onkeydown = function (e) {
 
 document.addEventListener("visibilitychange", function () {
   if (document.visibilityState === "visible") {
-    document.title = "Experience | Portfolio Masao Kanayama";
+    document.title = "Experience | Portfolio Doi Takehiro";
     $("#favicon").attr("href", "/assets/images/favicon.png");
   } else {
     document.title = "Come Back To Portfolio";

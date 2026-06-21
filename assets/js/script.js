@@ -63,7 +63,7 @@ $(document).ready(function () {
 document.addEventListener('visibilitychange',
     function () {
         if (document.visibilityState === "visible") {
-            document.title = "Portfolio | Masao Kanayama";
+            document.title = "Portfolio | Doi Takehiro";
             $("#favicon").attr("href", "assets/images/favicon.png");
         }
         else {
@@ -183,7 +183,7 @@ VanillaTilt.init(document.querySelectorAll(".tilt"), {
 // window.onload = fadeOut;
 // pre loader end
 
-// diKanayama developer mode
+// diTakehiro developer mode
 document.onkeydown = function (e) {
     if (e.keyCode == 123) {
         return false;
