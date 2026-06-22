@@ -83,7 +83,7 @@ var typed = new Typed(".typing-texten", {
 });
 // <!-- typed js effect starts -->
 var typed = new Typed(".typing-textjp", {
-    strings: ["フロントエンドエンジニア", "バックエンドエンジニア", "Webデザイン ", "Androidアプリ開発者", "Webエンジニア"],
+    strings: ["フロントエンドエンジニア", "バックエンドエンジニア", "AIエンジニア", "Androidアプリ開発者", "Webエンジニア"],
     loop: true,
     typeSpeed: 50,
     backSpeed: 25,
