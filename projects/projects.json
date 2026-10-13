@@ -65,7 +65,7 @@
     "image": "nihonriko.png",
     "category": "design sass",
     "links": {
-      "view": "#",
+      "view": "https://nr-brand.jp/",
       "code": "https://github.com/000Jerry000/nihonriko"
     }
   },
@@ -80,313 +80,233 @@
     }
   },
   {
-    "name": "NotyStack Android",
-    "desc": "Fully fledged android CRUD app based on different design patterns. Built using Java, XML, SQLite, Firebase, RoomDB, MVVM.",
-    "image": "notystackandroid.png",
+    "name": "マッチングアプリ",
+    "desc": "・日本人の女性と韓国人の女性をマッチングする \n ・プロフィール登録、本人確認、多言語、翻訳機能\n ・MAP上で検索 、チャット、いいね、\n ・チケット購入",
+    "image": "マッチングアプリ.png",
+    "category": "android google-map",
+    "links": {
+      "view": "",
+      "code": "https://github.com/000Jerry000/doctor-s-Info"
+    }
+  },
+  {
+    "name": "在庫管理システム - ZAIKO",
+    "desc": "Ruby on Railsで開発した在庫管理システム。仕入・在庫・販売の一元管理が可能。仕入・支払伝票作成、在庫更新、税計算、ユーザー権限管理を搭載。直感的なUIで業務効率を向上。開発費150万円。",
+    "image": "ZAIKO.png",
+    "category": "system",
+    "links": {
+      "view": "https://fujigankyo.chu.jp/system_fujigankyo/sale-management/estimation-new-create",
+      "code": "https://github.com/000Jerry000/doctor-s-Info"
+    }
+  },
+  {
+    "name": "アフィリエイト分析サイト",
+    "desc": "アフィリエイトマーケター向けの分析サイトを、Vue.jsとPHP Laravelを用いて開発しました。",
+    "image": "アフィリエイト分析サイト.png",
+    "category": "system",
+    "links": {
+      "view": "",
+      "code": "https://github.com/000Jerry000/doctor-s-Info"
+    }
+  },
+  {
+    "name": "自動販売機のアプリの開発",
+    "desc": "Uber Eatsや出前館（Demaecan）と連携し、顧客がこれらのプラットフォームを通じて自動販売機での商品を注文する機能を開発しました。このプロジェクトにより、より多くの顧客にフレッシュな食品を提供し、利便性を高めることを目指しました。",
+    "image": "自動販売機.jpeg",
+    "category": "system",
+    "links": {
+      "view": "",
+      "code": "https://github.com/000Jerry000/doctor-s-Info"
+    }
+  },
+  {
+    "name": "投げ銭サイト",
+    "desc": "「TipTap」は、PythonとDjangoを用いて開発された投げ銭サイトになります。",
+    "image": "投げ銭サイト.webp",
+    "category": "python",
+    "links": {
+      "view": "https://tiptap.tokyo/",
+      "code": "https://github.com/000Jerry000/doctor-s-Info"
+    }
+  },
+  {
+    "name": "AIの占い師アプリ",
+    "desc": "アプリをダウンロードしてカメラロールにある写真を分析を行います。分析結果をchatgptへ投げてユーザーの性格、特徴、将来のことを占っています。",
+    "image": "AIの占い師アプリ.webp",
+    "category": "python chatgpt",
+    "links": {
+      "view": "",
+      "code": "https://github.com/000Jerry000/doctor-s-Info"
+    }
+  },
+  {
+    "name": "えのすぱLOVERS公式サイトを制作しました",
+    "desc": "えのすぱLOVERS -巡って、食べて、癒されて。私たちのスキを集めに行こう。",
+    "image": "LOVERS.webp",
+    "category": "wordpress",
+    "links": {
+      "view": "",
+      "code": "https://github.com/000Jerry000/doctor-s-Info"
+    }
+  },
+  {
+    "name": "シンデレラスリープ",
+    "desc": "シンデレラスリープ | Contents",
+    "image": "シンデレラスリープ.webp",
+    "category": "wordpress",
+    "links": {
+      "view": "",
+      "code": "https://github.com/000Jerry000/doctor-s-Info"
+    }
+  },
+  {
+    "name": "フェイスリフトサロンCLARITY様",
+    "desc": "フェイスリフトサロンCLARITY様 ホームページ制作",
+    "image": "フェイスリフトサロン.webp",
+    "category": "design wordpress",
+    "links": {
+      "view": "",
+      "code": "https://github.com/000Jerry000/doctor-s-Info"
+    }
+  },
+  {
+    "name": "OTA・公式サイト対応 ホテル宿泊データ自動収集システム開発",
+    "desc": "宿泊人数別料金・空室状況・公開月数を正確に取得する高精度スクレイピングプラットフォーム",
+    "image": "ホテル宿泊.webp",
+    "category": "gas chatgpt",
+    "links": {
+      "view": "https://www.jalan.net/uw/uwp3200/uww3201init.do?callbackHistFlg=1&stayCount=1&roomCount=1&dateUndecided=1&adultNum=4&rootCd=7701&distCd=01&yadNo=384944&smlCd=010202&roomCrack=400000&stayYear=&stayMonth=&stayDay=&screenId=UWW3101&planCd=03618774&roomTypeCd=0517558&planListNumPlan=3_0_0&groupBookingFlg=&ccnt=planlist_cp_y_500_sale_n_0_pp_n_0",
+      "code": "https://github.com/000Jerry000/doctor-s-Info"
+    }
+  },
+  {
+    "name": "GSCデータを自動でスプレッドシートに出力",
+    "desc": "GASを使用してGoogle Search Console（GSC）から検索パフォーマンスデータを自動的に検索し、スプレッドシートに出力するGoogle Apps Script（GAS）を構築しました。",
+    "image": "GSCデータを自動.webp",
+    "category": "gas",
+    "links": {
+      "view": "",
+      "code": "https://github.com/000Jerry000/doctor-s-Info"
+    }
+  },
+  {
+    "name": "Flutterflowマッチングアプリ",
+    "desc": "理想の異性と出会えるマッチングアプリを開発しました。",
+    "image": "Flutterflowマッチングアプリ.webp",
     "category": "android",
     "links": {
-      "view": "https://www.linkedin.com/posts/Ray_09_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
-      "code": "https://github.com/000jerry000/notystack-android"
+      "view": "",
+      "code": "https://github.com/000Jerry000/doctor-s-Info"
     }
   },
   {
-    "name": "SPPU Engg Prep",
-    "desc": "All in one SPPU Engineering resources. Built using Java, XML and Firebase.",
-    "image": "sppuprepandroid.png",
+    "name": "まつりNOW",
+    "desc": "お祭りで山車が今どこにいるかリアルタイムで分かるWebサービス！",
+    "image": "まつりNOW.webp",
     "category": "android",
     "links": {
-      "view": "https://www.linkedin.com/posts/Ray_09_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
-      "code": "https://github.com/000jerry000/sppu-prep-android"
+      "view": "https://apocc.co.jp/matsurinow_lp",
+      "code": "https://github.com/000Jerry000/doctor-s-Info"
     }
   },
   {
-    "name": "NewsBox Android",
-    "desc": "Native android app built using Java, XML. Retrofit & Glide dependencies. Provides different category news.",
-    "image": "newsboxandroid.png",
+    "name": "外国人インフルエンサーマッチングサービス『UZU』",
+    "desc": "外国人インフルエンサーと店舗のマッチングサービス「UZU」の開発を担当。",
+    "image": "uzu_.webp",
     "category": "android",
     "links": {
-      "view": "https://www.linkedin.com/posts/Ray_09_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
-      "code": "https://github.com/000jerry000/newsbox-android"
+      "view": "https://apocc.co.jp/uzu_lp",
+      "code": "https://github.com/000Jerry000/doctor-s-Info"
     }
   },
   {
-    "name": "Weatherly Android",
-    "desc": "Native android app built using Java, XML and Volley dependencies. Provides weather forecast.",
-    "image": "weatherlyandroid.png",
-    "category": "android",
+    "name": "ダイソー公式 まとめ買い通販",
+    "desc": "ダイソー公式のまとめ買いオンラインショップ。収納用品・日用品・雑貨などをセット販売し、業務用・大量購入ニーズに対応するネットストアです。",
+    "image": "ダイソー公式.webp",
+    "category": "design wordpress",
     "links": {
-      "view": "https://www.linkedin.com/posts/Ray_09_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
-      "code": "https://github.com/000jerry000/weatherly-android"
+      "view": "https://jpbulk.daisonet.com/",
+      "code": "https://github.com/000Jerry000/doctor-s-Info"
     }
   },
   {
-    "name": "Instagram MERN",
-    "desc": "Full-Stack Instagram clone built using MERN stack and realtime chat with the help of socket.iO",
-    "image": "instagrammern.png",
-    "category": "mern",
+    "name": "ママスタ（ママ向け情報プラットフォーム）",
+    "desc": "子育て・生活情報を発信する日本最大級ママ向けメディア。ニュース・コラム・コミュニティ・保活情報など、ママの日常を支援するコンテンツと交流基盤を提供します。([プレスリリース・ニュースリリース配信シェアNo.1｜PR TIMES][1])",
+    "image": "ママスタ.webp",
+    "category": "design wordpress",
     "links": {
-      "view": "https://instagramernstack.herokuapp.com/",
-      "code": "https://github.com/000jerry000/instagram-mern"
+      "view": "https://mamastar.jp/",
+      "code": "https://github.com/000Jerry000/doctor-s-Info"
     }
   },
   {
-    "name": "Flipkart MERN",
-    "desc": "Full-Stack Flipkart with Admin Dashboard and Paytm Payment Gateway. MERN Stack WebApp, ready to use for business.",
-    "image": "flipkartmern.png",
-    "category": "mern",
+    "name": "日経BP（ビジネス情報ポータル）",
+    "desc": "日経BP公式サイト。ビジネス・テクノロジー・ライフスタイルなど幅広い分野の専門情報、ニュース、専門誌連動コンテンツを提供する総合情報ポータルです。",
+    "image": "日経BP.webp",
+    "category": "design wordpress",
     "links": {
-      "view": "https://flipkartwebs.herokuapp.com/",
-      "code": "https://github.com/000jerry000/flipkart-mern"
+      "view": "https://www.nikkeibp.co.jp/",
+      "code": "https://github.com/000Jerry000/doctor-s-Info"
     }
   },
   {
-    "name": "ResumeGen",
-    "desc": "ReactJS Basic Resume Generator which will generate customized resume in few minutes on your requirements.",
-    "image": "resumegen.png",
-    "category": "mern",
+    "name": "Uta-Net（歌詞検索サービス）",
+    "desc": "国内最大級の歌詞検索サービス「Uta-Net」。曲名・アーティスト・歌詞の一部から無料で歌詞を検索・閲覧でき、音楽情報やランキング等のコンテンツも提供するサイトです。",
+    "image": "Uta-Net.webp",
+    "category": "design wordpress",
     "links": {
-      "view": "https://resumegenx.netlify.app/",
-      "code": "https://github.com/000jerry000/resumegen"
+      "view": "https://www.uta-net.com/",
+      "code": "https://github.com/000Jerry000/doctor-s-Info"
     }
   },
   {
-    "name": "React-Projects",
-    "desc": "Full-Stack project dashboard which is collection of projects built on the React library.",
-    "image": "reactprojects.png",
-    "category": "mern",
+    "name": "オリコン公式サイト（ニュース・ランキング）",
+    "desc": "音楽・エンタメ情報・ランキングを提供する総合メディア。最新ニュースや音楽チャート、顧客満足度ランキングなどを発信し、トレンド情報のプラットフォームとして日本の大衆文化に貢献しています。",
+    "image": "オリコン公式サイト.webp",
+    "category": "design wordpress",
     "links": {
-      "view": "https://reactjsprojects.herokuapp.com/",
-      "code": "https://github.com/000jerry000/React-Projects"
+      "view": "https://www.oricon.co.jp/",
+      "code": "https://github.com/000Jerry000/doctor-s-Info"
     }
   },
   {
-    "name": "Flipkart PHP",
-    "desc": "Full-Stack Flipkart Clone Using LAMP Stack. With all major features and OTP authentication and Cashfree payment gateway.",
-    "image": "flipkartphp.png",
-    "category": "lamp",
+    "name": "パスワード生成Webアプリ",
+    "desc": "安全で複雑なパスワードを簡単に生成できるWebアプリです。本アプリは Peegee として公開しており、MCP（Model Context Protocol）サーバーにも対応。",
+    "image": "パスワード生成Webアプリ.webp",
+    "category": "system security",
     "links": {
-      "view": "https://github.com/000jerry000/Flipkart-Clone-PHP",
-      "code": "https://github.com/000jerry000/Flipkart-Clone-PHP"
+      "view": "https://peegee.masoo.dev/",
+      "code": "https://github.com/000Jerry000/doctor-s-Info"
     }
   },
   {
-    "name": "JavaScript Projects Website",
-    "desc": "This website is specially build to showcase all major javaScript projects. All my javaScript based projects are in it.",
-    "image": "jspro.PNG",
-    "category": "basicweb",
+    "name": "パスワード受け取りシステム",
+    "desc": "メールで添付ファイルを送付した後、２つ目のメールでパスワードを送信する事を防ぎたいために作成しました。",
+    "image": "passend.webp",
+    "category": "security",
     "links": {
-      "view": "https://Ray_09.github.io/JavaScript-Projects",
-      "code": "https://github.com/000jerry000/JavaScript-Projects"
+      "view": "",
+      "code": "https://github.com/000Jerry000/doctor-s-Info"
     }
   },
   {
-    "name": "Web UI Clones",
-    "desc": "Flipkart, YouTube, Instagram, Sololearn web UI clones using tailwindCSS.",
-    "image": "webuiclones.png",
-    "category": "mern",
+    "name": "電子書籍 epub3 作成",
+    "desc": "電子書籍 epub3 作成・発表プラットフォームです。",
+    "image": "cocuu.webp",
+    "category": "security",
     "links": {
-      "view": "https://github.com/000jerry000/web-ui-clones",
-      "code": "https://github.com/000jerry000/web-ui-clones"
+      "view": "http://cocuu.net/",
+      "code": "https://github.com/000Jerry000/doctor-s-Info"
     }
   },
   {
-    "name": "Crypto Tracker",
-    "desc": "Crypto Tracker built using ReactJS and Chakra UI. Supports dark mode. API used coingecko.",
-    "image": "cryptotracker.png",
-    "category": "mern",
+    "name": "個人サイト",
+    "desc": "jekyllというコンテンツ管理システムを用いて作成しました。プロバイダのホームページでも設置可能なツールとなっております。",
+    "image": "profile_ipad.webp",
+    "category": "design wordpress system",
     "links": {
-      "view": "https://crypto-tracker-react-project.netlify.app/",
-      "code": "https://github.com/000jerry000/React-Projects/tree/main/crypto-tracker"
-    }
-  },
-  {
-    "name": "Hulu Website",
-    "desc": "Hulu website built using NextJS and tailwindCSS. API used TMDB, deployed on vercel.",
-    "image": "hulu.png",
-    "category": "mern",
-    "links": {
-      "view": "https://hulu-clone-Ray_09.vercel.app/",
-      "code": "https://github.com/000jerry000/React-Projects/tree/main/hulu-clone"
-    }
-  },
-  {
-    "name": "Portfolio Website",
-    "desc": "Personal Portfolio Website. Don't Need Much Info About It, Just Scroll Down. You're Here Only!",
-    "image": "portfolio1.png",
-    "category": "basicweb",
-    "links": {
-      "view": "#",
-      "code": "https://github.com/000jerry000/Portfolio-Website"
-    }
-  },
-  {
-    "name": "Composey Website",
-    "desc": "Simple landing page website built using HTML, CSS, JavaScript and some JavaScript Libraries.",
-    "image": "composey.png",
-    "category": "basicweb",
-    "links": {
-      "view": "https://composey.netlify.app/",
-      "code": "https://github.com/000jerry000/LGMVIP-WebDev"
-    }
-  },
-  {
-    "name": "Webview App",
-    "desc": "It's an android app which uses web view component for displaying content. This app provides many different features.",
-    "image": "webviewapp.png",
-    "category": "android",
-    "links": {
-      "view": "https://github.com/000jerry000/Android-Webview#webapp--android-webview-app",
-      "code": "https://github.com/000jerry000/Android-Webview"
-    }
-  },
-  {
-    "name": "PHP Banking Website",
-    "desc": "Basic Banking System based on PHP and MySQL database. Made with HTML, CSS, JavaScript and backend with PHP.",
-    "image": "tsfbank.png",
-    "category": "lamp",
-    "links": {
-      "view": "https://tsfbank.rf.gd",
-      "code": "https://github.com/000jerry000/TSF-Bank"
-    }
-  },
-  {
-    "name": "Bootstrap Portfolio",
-    "desc": "Portfolio built using HTML, CSS, Bootstrap, SASS and JavaScript. Customized Bootstrap using SCSS.",
-    "image": "bootstrapportfolio.png",
-    "category": "basicweb",
-    "links": {
-      "view": "#",
-      "code": "#"
-    }
-  },
-  {
-    "name": "Bootstrap Template",
-    "desc": "Basic website template built using HTML and Bootstrap.",
-    "image": "bootstraptemplate.png",
-    "category": "basicweb",
-    "links": {
-      "view": "#",
-      "code": "#"
-    }
-  },
-  {
-    "name": "Foodicious",
-    "desc": "Basic food website landing page built using HTML, CSS and JavaScript.",
-    "image": "foodicious.png",
-    "category": "basicweb",
-    "links": {
-      "view": "#",
-      "code": "#"
-    }
-  },
-  {
-    "name": "Food Website",
-    "desc": "Basic food website landing page built using HTML, CSS, SASS, Bootstrap and jQuery.",
-    "image": "foodwebsite.png",
-    "category": "basicweb",
-    "links": {
-      "view": "#",
-      "code": "#"
-    }
-  },
-  {
-    "name": "WebChat Website",
-    "desc": "It's a web based chat app made using popular javaScript library Socket IO. Allows multiple users to connect.",
-    "image": "webchat.png",
-    "category": "mern",
-    "links": {
-      "view": "https://github.com/000jerry000/WebChat#webchat",
-      "code": "https://github.com/000jerry000/WebChat"
-    }
-  },
-  {
-    "name": "Basic Banking App",
-    "desc": "It's an android app which uses SQLite to store user accounts data. It provides feature to simply transact amount.",
-    "image": "basicbank.png",
-    "category": "android",
-    "links": {
-      "view": "https://github.com/000jerry000/Basic_Banking_App#basic-banking-app",
-      "code": "https://github.com/000jerry000/Basic_Banking_App"
-    }
-  },
-  {
-    "name": "JavaScript Issue Tracker",
-    "desc": "It provides the feature to Assign Issue With The Auto Generated Id By Using ChanceJS. Uses Local Storage.",
-    "image": "issuetrack.png",
-    "category": "basicweb",
-    "links": {
-      "view": "https://Ray_09.github.io/JavaScript-Projects/projects/issuetracker",
-      "code": "https://github.com/000jerry000/JavaScript-Projects/tree/main/projects/issuetracker"
-    }
-  },
-  {
-    "name": "PHP PBL Portal",
-    "desc": "A simple portal in which students can submit their PBL projects and faculties can view by access admin panel.",
-    "image": "phppblform.png",
-    "category": "lamp",
-    "links": {
-      "view": "https://github.com/000jerry000/PHP-Projects/tree/main/pblform#pbl-portal",
-      "code": "https://github.com/000jerry000/PHP-Projects/tree/main/pblform"
-    }
-  },
-  {
-    "name": "Link List",
-    "desc": "All major profile links in a single website. It's just like clone of link tree. Personalized and Responsive.",
-    "image": "linklist.png",
-    "category": "basicweb",
-    "links": {
-      "view": "https://Ray_09.github.io/LinkList",
-      "code": "https://github.com/000jerry000/LinkList"
-    }
-  },
-  {
-    "name": "Job Finder Dummy",
-    "desc": "It Fetch JSON Data And Allow Feature To Search Within The Content Displayed. Will be Developed By Using Live APIs.",
-    "image": "saas.png",
-    "category": "basicweb",
-    "links": {
-      "view": "https://Ray_09.github.io/JavaScript-Projects/api-projects/saas-jobs",
-      "code": "https://github.com/000jerry000/JavaScript-Projects/tree/main/api-projects/saas-jobs"
-    }
-  },
-  {
-    "name": "Old Websites",
-    "desc": "Bestwebs & ColorCoder. Two Years old websites memories. Simple with basic features.",
-    "image": "oldsites.png",
-    "category": "basicweb",
-    "links": {
-      "view": "#",
-      "code": "#"
-    }
-  },
-  {
-    "name": "Resistor Color Codes",
-    "desc": "Simply provides the color codes of resistors. Calculation information and about resistors.",
-    "image": "resistercolor.png",
-    "category": "basicweb",
-    "links": {
-      "view": "#",
-      "code": "#"
-    }
-  },
-  {
-    "name": "KIA Info Website",
-    "desc": "Basic KIA webpage displays the info about seltos product range. Specs and Image Gallery.",
-    "image": "kiaweb.png",
-    "category": "basicweb",
-    "links": {
-      "view": "#",
-      "code": "#"
-    }
-  },
-  {
-    "name": "Burger Shop Dummy",
-    "desc": "Basic burger shop webpage allow users to check menu and price. Dummy Order Form.",
-    "image": "burgerweb.png",
-    "category": "basicweb",
-    "links": {
-      "view": "#",
-      "code": "#"
+      "view": "http://homepage2.nifty.com/107steps/",
+      "code": "https://github.com/000Jerry000/doctor-s-Info"
     }
   }
 ]

@@ -836,8 +836,30 @@ img.chatwork {
 
 .work .desc p {
   font-size: 1.5rem;
+  height: 85px;
+  overflow-y: scroll;
 }
 
+/* Thin scrollbar */
+.content p::-webkit-scrollbar {
+  width: 6px;
+}
+
+/* Scrollbar track (background) */
+.content p::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+/* Scrollbar thumb (the moving part) */
+.content p::-webkit-scrollbar-thumb {
+  background-color: rgba(0, 0, 0, 0.3);
+  border-radius: 3px;
+}
+
+/* On hover (optional) */
+.content p::-webkit-scrollbar-thumb:hover {
+  background-color: rgba(0, 0, 0, 0.5);
+}
 .work .desc .btns {
   display: flex;
   justify-content: space-between;

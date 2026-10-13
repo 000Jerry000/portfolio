@@ -38,19 +38,23 @@ $(document).ready(function () {
     });
 
     // <!-- emailjs to mail contact form data -->
-    $("#contact-form").submit(function (event) {
-        emailjs.init("user_TTDmetQLYgWCLzHTDgqxm");
-
-        emailjs.sendForm('contact_service', 'template_contact', '#contact-form')
-            .then(function (response) {
-                console.log('SUCCESS!', response.status, response.text);
-                document.getElementById("contact-form").reset();
-                alert("Form Submitted Successfully");
-            }, function (error) {
-                console.log('FAILED...', error);
-                alert("Form Submission Failed! Try Again");
-            });
-        event.preventDefault();
+    document.getElementById('form')
+     .addEventListener('submit', function(event) {
+       event.preventDefault();
+    
+       btn.value = 'Sending...';
+    
+       const serviceID = 'default_service';
+       const templateID = 'template_tqr125r';
+    
+       emailjs.sendForm(serviceID, templateID, this)
+        .then(() => {
+          btn.value = 'Send Email';
+          alert('Sent!');
+        }, (err) => {
+          btn.value = 'Send Email';
+          alert(JSON.stringify(err));
+        });
     });
     // <!-- emailjs to mail contact form data -->
 
@@ -59,7 +63,7 @@ $(document).ready(function () {
 document.addEventListener('visibilitychange',
     function () {
         if (document.visibilityState === "visible") {
-            document.title = "Portfolio | Masao Kanayama";
+            document.title = "Portfolio | Doi Takehiro";
             $("#favicon").attr("href", "assets/images/favicon.png");
         }
         else {
@@ -79,7 +83,7 @@ var typed = new Typed(".typing-texten", {
 });
 // <!-- typed js effect starts -->
 var typed = new Typed(".typing-textjp", {
-    strings: ["フロントエンドエンジニア", "バックエンドエンジニア", "Webデザイン ", "Androidアプリ開発者", "Webエンジニア"],
+    strings: ["フロントエンドエンジニア", "バックエンドエンジニア", "AIエンジニア", "Androidアプリ開発者", "Webエンジニア"],
     loop: true,
     typeSpeed: 50,
     backSpeed: 25,
@@ -179,7 +183,7 @@ VanillaTilt.init(document.querySelectorAll(".tilt"), {
 // window.onload = fadeOut;
 // pre loader end
 
-// diKanayama developer mode
+// diTakehiro developer mode
 document.onkeydown = function (e) {
     if (e.keyCode == 123) {
         return false;
